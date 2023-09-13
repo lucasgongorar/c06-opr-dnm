@@ -1,0 +1,123 @@
+[ 
+	{
+		"id": 3388238,
+		"name": "Sao Paulo do Potengi",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -35.762779,
+			"lat": -5.895
+		}
+	},
+	{
+		"id": 3451190,
+		"name": "Rio de Janeiro",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -43.2075,
+			"lat": -22.902781
+		}
+	},
+	{
+		"id": 3469058,
+		"name": "Brasilia",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -47.929722,
+			"lat": -15.77972
+		}
+	},
+	{
+		"id": 3924676,
+		"name": "Vista Alegre",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -61.466671,
+			"lat": -11.5
+		}
+	},
+	{
+		"id": 3467684,
+		"name": "Campos do Jordao",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -45.591389,
+			"lat": -22.739441
+		}
+	},
+	{
+		"id": 3463237,
+		"name": "Florianopolis",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -48.549171,
+			"lat": -27.59667
+		}
+	},
+	{
+		"id": 3390326,
+		"name": "Ribeirao",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -35.377781,
+			"lat": -8.51444
+		}
+	},
+	{
+		"id": 3452640,
+		"name": "Porto Seguro",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -39.06472,
+			"lat": -16.44972
+		}
+	},
+	{
+		"id": 3452640,
+		"name": "Porto Seguro",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -39.06472,
+			"lat": -16.44972
+		}
+	},
+	{
+		"id": 3395239,
+		"name": "Massapê",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -40.342781,
+			"lat": -3.52278
+		}
+	},
+	{
+		"id": 3385645,
+		"name": "Urucurituba",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -57.666672,
+			"lat": -2.68333
+		}
+	},
+	{
+		"id": 3396129,
+		"name": "Lucrécia",
+		"state": "",
+		"country": "BR",
+		"coord": {
+			"lon": -37.815559,
+			"lat": -6.12
+		}
+	   }
+]
+
