@@ -16,6 +16,7 @@
             body {
                 color:#222;
                 background:#eee url("rio.jpg");
+                background-size: cover;
                 font-family:Poppins;
                 font-size:0.9rem
             }
@@ -84,7 +85,7 @@
             cities().catch((error) => console.error(error));
             //creando la función weather
             async function weather(ciudad) {
-                const segundo = await fetch("https://api.openweathermap.org/data/2.5/weather?q=" + ciudad + "5065a896bba6155c7b6ffb8918a970b8");
+                const segundo = await fetch("https://api.openweathermap.org/data/2.5/weather?q=" + ciudad + ",br&units=metric&appid=5065a896bba6155c7b6ffb8918a970b8&lang=es");
                 //después del "appid="" se pone mi apikey con el código de mi cuenta de openweather//
                 const tiempo = await segundo.json();
                 console.log(tiempo);
